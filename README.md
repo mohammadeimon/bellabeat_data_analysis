@@ -5,7 +5,7 @@ In this case study I will perform many real-world tasks of a junior data analyst
 
 SQL Queries:
 
-Data Visualization:
+Data Visualization:asdas
 
 ##Background
 
@@ -13,17 +13,23 @@ Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufact
 
 #STEP 1
 
+##Business Task
 Sršen asks you to analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices. She then wants you to select one Bellabeat product to apply these insights to in your presentation. 
 
-##Business Task
+## Business Objective
 1. What are some trends in smart device usage? 
 2. How could these trends apply to Bellabeat customers? 
 3. How could these trends help influence Bellabeat marketing strategy? 
 
-You will produce a report with the following deliverables: 
+##Deliverables: 
 1. A clear summary of the business task 
 2. A description of all data sources used 
 3. Documentation of any cleaning or manipulation of data 
 4. A summary of your analysis 
 5. Supporting visualizations and key findings 
 6. Your top high-level content recommendations based on your analysis
+
+##Key Stakeholders:
+1. Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer 
+2. Sando Mur: Mathematician, Bellabeat’s cofounder and key member of the Bellabeat executive team 
+3. Bellabeat marketing analytics team: A team of data analysts guiding Bellabeat's marketing strategy.
