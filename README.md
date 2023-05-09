@@ -60,3 +60,5 @@ Overall, the dataset is considered bad quality data and it is not recommended to
 The following file is selected and copied for analysis.
 
     • dailyActivity_merged.csv
+    
+# Step 3 - Process
